@@ -7,10 +7,10 @@
     <useragent description="Firefox OS (Fireweb)" useragent="Mozilla/5.0 (Mobile; LG-D300; rv:18.1) Gecko/18.1 Firefox/18.1" appcodename="Mozilla" appname="Netscape" appversion="5.0" platform="" vendor="" vendorsub=""/>
     <!-- Firefox for Android -->
     <separator/>
-    <useragent description="Firefox for Android (Stable)" useragent="Mozilla/5.0 (Android; Mobile; rv:26.0) Gecko/26.0 Firefox/26.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
-    <useragent description="Firefox for Android (Beta)" useragent="Mozilla/5.0 (Android; Mobile; rv:27.0) Gecko/27.0 Firefox/27.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
-    <useragent description="Firefox for Android (Aurora)" useragent="Mozilla/5.0 (Android; Mobile; rv:28.0) Gecko/28.0 Firefox/28.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
-    <useragent description="Firefox for Android (Nightly)" useragent="Mozilla/5.0 (Android; Mobile; rv:29.0) Gecko/29.0 Firefox/29.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
+    <useragent description="Firefox for Android (Stable)" useragent="Mozilla/5.0 (Android; Mobile; rv:27.0) Gecko/27.0 Firefox/27.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
+    <useragent description="Firefox for Android (Beta)" useragent="Mozilla/5.0 (Android; Mobile; rv:28.0) Gecko/28.0 Firefox/28.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
+    <useragent description="Firefox for Android (Aurora)" useragent="Mozilla/5.0 (Android; Mobile; rv:29.0) Gecko/29.0 Firefox/29.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
+    <useragent description="Firefox for Android (Nightly)" useragent="Mozilla/5.0 (Android; Mobile; rv:30.0) Gecko/30.0 Firefox/30.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
     <!-- Opera -->
     <separator/>
     <useragent description="Opera Mobile (Presto)" useragent="Opera/9.80 (Android 4.3; Linux; Opera Mobi/ADR-1309251116) Presto/2.11.355 Version/12.10" appcodename="Mozilla" appname="Opera" appversion="9.80 (Android 4.3; Linux; Opera Mobi/ADR-1309251116)" platform="Android"/>
