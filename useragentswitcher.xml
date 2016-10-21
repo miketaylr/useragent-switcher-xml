@@ -9,10 +9,10 @@
 
     <!-- Firefox for Android -->
     <separator/>
-    <useragent description="Firefox for Android (Stable 38)" useragent="Mozilla/5.0 (Android; Mobile; rv:38.0) Gecko/38.0 Firefox/38.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
-    <useragent description="Firefox for Android (Beta 39)" useragent="Mozilla/5.0 (Android; Mobile; rv:39.0) Gecko/39.0 Firefox/39.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
-    <useragent description="Firefox for Android (Aurora 40)" useragent="Mozilla/5.0 (Android; Mobile; rv:40.0) Gecko/40.0 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
-    <useragent description="Firefox for Android (Nightly 41)" useragent="Mozilla/5.0 (Android; Mobile; rv:41.0) Gecko/41.0 Firefox/41.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
+    <useragent description="Firefox for Android (Stable 49)" useragent="Mozilla/5.0 (Android; Mobile; rv:49.0) Gecko/49.0 Firefox/49.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
+    <useragent description="Firefox for Android (Beta 50)" useragent="Mozilla/5.0 (Android; Mobile; rv:50.0) Gecko/50.0 Firefox/50.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
+    <useragent description="Firefox for Android (Aurora 51)" useragent="Mozilla/5.0 (Android; Mobile; rv:51.0) Gecko/51.0 Firefox/51.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
+    <useragent description="Firefox for Android (Nightly 52)" useragent="Mozilla/5.0 (Android; Mobile; rv:52.0) Gecko/52.0 Firefox/52.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (Android)" platform="Linux armv7l" vendor="" vendorsub=""/>
 
     <!-- Opera -->
     <separator/>
